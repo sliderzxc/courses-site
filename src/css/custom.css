@@ -1,0 +1,58 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by current. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the current Infima variables here. */
+:root {
+  --ifm-color-primary: #ab2bfc;
+  --ifm-color-primary-dark: #9E18D7;
+  --ifm-color-primary-darker: #8D0AAF;
+  --ifm-color-primary-darkest: #770087;
+  --ifm-color-primary-light: #C727FF;
+  --ifm-color-primary-lighter: #E639FF;
+  --ifm-color-primary-lightest: #FE54FF;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  background-color: #0d1117;
+  --ifm-color-primary: #ab2bfc;
+  --ifm-color-primary-dark: #9E18D7;
+  --ifm-color-primary-darker: #8D0AAF;
+  --ifm-color-primary-darkest: #770087;
+  --ifm-color-primary-light: #C727FF;
+  --ifm-color-primary-lighter: #E639FF;
+  --ifm-color-primary-lightest: #FE54FF;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* navbar in dark theme */
+[data-theme='dark'] .navbar {
+  background-color: #161b22;
+} 
+
+/* invertion images color in dark theme */
+[data-theme='dark'] img[src$='#invert'] {
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+.code-block-error-line {
+  background-color: #ff000020;
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+  border-left: 3px solid #ff000080;
+}
+
+.code-block-correct-line {
+  background-color: rgba(0, 255, 0, 0.14);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+  border-left: 3px solid green;
+}

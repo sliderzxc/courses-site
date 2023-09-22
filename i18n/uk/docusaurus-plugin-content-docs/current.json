@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Далі",
+    "description": "The label for version current"
+  },
+  "sidebar.kotlin.category.kotlin-basics": {
+    "message": "Основи",
+    "description": "The label for category kotlin-basics in sidebar kotlin"
+  },
+  "sidebar.kotlin.category.kotlin-data-structures": {
+    "message": "Структури даних",
+    "description": "The label for category kotlin-data-structures in sidebar kotlin"
+  },
+  "sidebar.gradle.category.gradle-basics": {
+    "message": "Основи",
+    "description": "The label for category gradle-basics in sidebar gradle"
+  }
+}
