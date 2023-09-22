@@ -10,7 +10,7 @@ const katex = require('rehype-katex');
 const config = {
     title: 'Course',
     tagline: 'Kotlin is the best',
-    url: 'https://course.y9vad9.com/',
+    url: 'https://docusaurus-2.netlify.app/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
