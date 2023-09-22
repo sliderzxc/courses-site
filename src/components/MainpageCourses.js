@@ -13,22 +13,6 @@ const Courses = [
             </>
         ),
     },
-    {
-        title: 'Gradle',
-        Svg: require('../../static/img/gradle.svg').default,
-        description: (
-            <Translate>gradle-course-desc</Translate>
-        )
-    },
-    {
-        title: <Translate>blog</Translate>,
-        Svg: require('../../static/img/blog.svg').default,
-        description: (
-            <>
-                <Translate>blog-desc</Translate>
-            </>
-        ),
-    },
 ];
 
 function Feature({Svg, title, description, className}) {

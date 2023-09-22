@@ -81,17 +81,6 @@ const config = {
                         label: 'Kotlin',
                     },
                     {
-                        type: 'doc',
-                        docId: 'gradle/intro',
-                        position: 'left',
-                        label: 'Gradle',
-                    },
-                    {
-                        to: 'blog',
-                        label: 'Blog',
-                        position: 'right'
-                    },
-                    {
                         href: 'https://github.com/y9vad9/kotlin-course',
                         label: 'GitHub',
                         position: 'right',

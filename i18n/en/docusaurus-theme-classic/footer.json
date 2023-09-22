@@ -1,18 +1,18 @@
 {
   "copyright": {
-    "message": "Copyright © 2022 Kotlin Course, Inc. Built with Docusaurus.",
+    "message": "Copyright © 2023 Cources Vadym Hrynyk, Inc. ",
     "description": "The footer copyright"
   },
   "link.item.label.telegram-reference": {
     "message": "Me in telegram",
-    "description": "The label of footer link with label=telegram-reference linking to https://t.me/vadimmeta"
+    "description": "The label of footer link with label=telegram-reference linking to https://t.me/sliderxc"
   },
   "link.item.label.github-reference": {
     "message": "Me on Github",
-    "description": "The label of footer link with label=github-reference linking to https://github.com/y9vad9"
+    "description": "The label of footer link with label=github-reference linking to https://github.com/sliderxc"
   },
   "link.title.options": {
     "message": "Options",
-    "description": "The label of footer link with label=telegram-reference linking to https://t.me/vadimmeta"
+    "description": "The label of footer link with label=telegram-reference linking to https://t.me/sliderxc"
   }
 }

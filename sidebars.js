@@ -49,22 +49,6 @@ const sidebars = {
             ],
         },
     ],
-    gradle: [
-        {
-            type: "doc",
-            id: 'gradle/intro'
-        },
-        {
-            type: 'category',
-            label: 'gradle-basics',
-            items: [
-                'gradle/basics/project',
-                'gradle/basics/modules',
-                'gradle/basics/source-sets',
-                'gradle/basics/multimodule'
-            ],
-        },
-    ]
 };
 
 module.exports = sidebars;

@@ -1,7 +1,7 @@
 ---
 title: Extension Oriented Design
 description: Why is extending your own classes a good idea?
-authors: vadim-yaroschuk
+authors: vadym-hrynyk
 keywords: [kotlin extensions, tutorial, helper, utils, class, external function]
 tags: [kotlin, design]
 date: 2022-11-20
