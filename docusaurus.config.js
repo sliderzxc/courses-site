@@ -18,8 +18,8 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'y9vad9', // Usually your GitHub org/user name.
-    projectName: 'kotlin-course', // Usually your repo name.
+    organizationName: 'sliderzxc', // Usually your GitHub org/user name.
+    projectName: 'courses-site', // Usually your repo name.
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
@@ -39,7 +39,7 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/y9vad9/kotlin-course/tree/master/',
+                        'https://github.com/sliderzxc/courses-site/tree/master/',
                     remarkPlugins: [math],
                     rehypePlugins: [katex],
                 },
@@ -48,7 +48,7 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/y9vad9/kotlin-course/tree/master/',
+                        'https://github.com/sliderzxc/courses-site/tree/master/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -81,7 +81,7 @@ const config = {
                         label: 'Kotlin',
                     },
                     {
-                        href: 'https://github.com/y9vad9/kotlin-course',
+                        href: 'https://github.com/sliderzxc/courses-site',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -99,16 +99,16 @@ const config = {
                         items: [
                             {
                                 label: 'telegram-reference',
-                                to: 'https://t.me/vadimmeta',
+                                to: 'https://t.me/sliderzxc',
                             },
                             {
                                 label: 'github-reference',
-                                to: 'https://github.com/y9vad9',
+                                to: 'https://github.com/sliderzxc',
                             },
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Kotlin Course, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Course Vadym Hrynyk, Inc.`,
             },
             prism: {
                 theme: lightCodeTheme,

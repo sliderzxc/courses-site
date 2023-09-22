@@ -47,11 +47,11 @@ function HomepageHeader() {
     return (
         <header className={clsx(styles.heroBanner)}>
             <div className="container">
-                <img src="img/y9vad9.png" alt="Avatar" height="200px" width="200px"/>
+                <img src="img/sliderzxc.png" alt="Avatar" height="200px" width="200px"/>
                 <h1 className="hero__title"><Translate>course-author</Translate></h1>
                 <p className="hero__subtitle"><Translate>course-author-desc</Translate></p>
                 <p align="center">
-                    <Translate>y9vad9-bio</Translate>
+                    <Translate>sliderzxc-bio</Translate>
                 </p>
             </div>
         </header>
