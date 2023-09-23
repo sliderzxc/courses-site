@@ -13,6 +13,24 @@ const Courses = [
             </>
         ),
     },
+    {
+        title: 'Android',
+        Svg: require('../../static/img/android.svg').default,
+        description: (
+            <>
+                <Translate>android-course-desc</Translate>
+            </>
+        ),
+    },
+    {
+        title: <Translate>blog</Translate>,
+        Svg: require('../../static/img/blog.svg').default,
+        description: (
+            <>
+                <Translate>blog-desc</Translate>
+            </>
+        ),
+    },
 ];
 
 function Feature({Svg, title, description, className}) {

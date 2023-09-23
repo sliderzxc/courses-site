@@ -253,8 +253,11 @@
   "kotlin-course-desc": {
     "message": "A course to introduce you to the Kotlin programming language. No additional knowledge is required."
   },
+  "android-course-desc": {
+    "message": "A course for learning Android Development, You should know a little bit Kotlin for it. It'll be soon. (under development)"
+  },
   "blog-desc": {
-    "message": "My notes on programming topics: approaches to writing code and more."
+    "message": "My notes on programming topics: approaches to writing code and more. It'll be soon. (under development)"
   },
   "sliderzxc-bio": {
     "message": "Hello! My name is Vadim. I have been programming for more than 2 years, I had experience in many programming languages: Java, C#, JavaScript, C++, but later I started learning kotlin and android development, and I like it the most. On this site I will introduce you to many programming languages ​​and more <3)"
