@@ -251,16 +251,13 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "kotlin-course-desc": {
-    "message": "A small introductory course in Kotlin programming. No additional knowledge is required."
-  },
-  "gradle-course-desc": {
-    "message": "A small introductory course to the world of build systems with Gradle for Kotlin and on Kotlin."
+    "message": "A course to introduce you to the Kotlin programming language. No additional knowledge is required."
   },
   "blog-desc": {
     "message": "My notes on programming topics: approaches to writing code and more."
   },
   "sliderzxc-bio": {
-    "message": "Hello everyone, my name is Vadym. I have been programming for over four years. I've been writing in Java, PHP, Python, and other languages but eventually came to a language called Kotlin. I consider it one of the best programming languages, which has a great present and an even better future. \n\nI decided to make my own small Kotlin course for beginners since there are not many courses on the Internet."
+    "message": "Hello! My name is Vadim. I have been programming for more than 2 years, I had experience in many programming languages: Java, C#, JavaScript, C++, but later I started learning kotlin and android development, and I like it the most. On this site I will introduce you to many programming languages ​​and more <3)"
   },
   "blog": {
     "message": "Blog"
