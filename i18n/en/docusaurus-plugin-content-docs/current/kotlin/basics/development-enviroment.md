@@ -22,7 +22,7 @@ Now that we have Intellij IDEA installed, let's create our first Kotlin project.
 
 1. Open Intellij IDEA and select the "New Project" option at startup.
 
-![Start Menu](images/ide_start_menu.png)
+![Start Menu](images/ide_start_menu_en.png)
 
 2. Give your project a name. It's essential to use Latin characters for the project name.
 
@@ -30,11 +30,11 @@ Now that we have Intellij IDEA installed, let's create our first Kotlin project.
 
 4. Click "Create" to create the project.
 
-![Creating Project](images/ide_project_creation.png)
+![Creating Project](images/ide_project_creation_en.png)
 
 5. In the project window, you will see the standard project structure.
 
-![Project Structure](images/ide_project_structure.png)
+![Project Structure](images/ide_project_structure_en.png)
 
 ## Your First Program
 
@@ -50,10 +50,10 @@ fun main() {
 }
 ```
 
-![First Program](images/ide_first_program.png)
+![First Program](images/ide_first_program_en.png)
 
 If we click on the green triangle on line 1 of the code, our program will display the text "Hello Kotlin!" on the screen.
 
-![Program Output](images/ide_output.png)
+![Program Output](images/ide_output_en.png)
 
 In the next lesson, we will delve more into this program.
