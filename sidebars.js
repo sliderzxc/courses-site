@@ -22,7 +22,8 @@ const sidebars = {
             type: 'category',
             label: 'kotlin-basics',
             items: [
-                'kotlin/basics/development-enviroment'
+                'kotlin/basics/development-enviroment',
+                'kotlin/basics/variables-and-data-types',
             ],
         },
     ],
