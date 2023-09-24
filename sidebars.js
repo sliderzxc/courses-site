@@ -18,6 +18,13 @@ const sidebars = {
             type: "doc",
             id: 'kotlin/intro'
         },
+        {
+            type: 'category',
+            label: 'kotlin-basics',
+            items: [
+                'kotlin/basics/development-enviroment'
+            ],
+        },
     ],
 };
 
