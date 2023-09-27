@@ -24,7 +24,8 @@ const sidebars = {
             items: [
                 'kotlin/basics/development-enviroment',
                 'kotlin/basics/variables-and-data-types',
-                'kotlin/basics/functions'
+                'kotlin/basics/functions',
+                'kotlin/basics/operators'
             ],
         },
     ],
